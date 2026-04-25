@@ -1,57 +1,63 @@
-### Hii, I'm Emily 👾
+# hey, i'm emily 👾
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="500"/>
-</p>
+> *argentinian dev. i make things that live on screens.*
 
-[![Github](https://img.shields.io/github/followers/emyypg?label=Follow&style=social)](https://github.com/emyypg)
+I'm a student and self-taught developer from Argentina, building projects at the intersection of **code** and **creative work** — whether that's a news blog, a portfolio, or something i'm still figuring out.
 
-- Developer from Argentina 🇦🇷  
-- Building creative & futuristic projects  
-- Focused on web + UI/UX  
-- Always learning & evolving  
+When i'm not typing, i'm drawing. Anime style OCs, fan art, characters that live in my sketchbook. Both feel the same to me — you start with nothing and shape something into existence.
 
 ---
 
-### ⚡ System Stats
+## 🛠️ what i work with
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=emyypg&show_icons=true&hide_border=true&bg_color=0a0a0f&title_color=c084fc&icon_color=c084fc&text_color=ffffff"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=emyypg&layout=compact&hide_border=true&bg_color=0a0a0f&title_color=c084fc&text_color=ffffff"
-    height="170"
-  />
-</p>
+```
+HTML · CSS · JavaScript · Python · Git · Figma
+```
 
 ---
 
-### 🔥 Activity Stream
+## 📂 things i've built
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=emyypg&hide_border=true&background=0a0a0f&ring=c084fc&fire=c084fc&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c084fc&sideLabels=c084fc&dates=cccccc"
-    height="170"
-  />
-</p>
+| project | what it is |
+|--------|------------|
+| [blog](https://github.com/emyypg/blog) | a news blog — python in the back, ideas in the front |
+| [Portforio](https://github.com/emyypg/Portforio) | my dev portfolio, built in HTML |
 
 ---
 
-### 🧠 Tech Stack
-`HTML` `CSS` `JavaScript` `Python` `Git` `Figma`
+## 📊 stats
+
+<div align="center">
+
+![Emily's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emyypg&show_icons=true&hide_border=true&bg_color=0a0a0f&title_color=c084fc&icon_color=c084fc&text_color=ffffff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emyypg&layout=compact&hide_border=true&bg_color=0a0a0f&title_color=c084fc&text_color=ffffff)
+
+</div>
 
 ---
 
-### 🛰️ Visual Feed
+## 🔥 streak
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="300"/>
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="300"/>
-</p>
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=emyypg&hide_border=true&background=0a0a0f&ring=c084fc&fire=c084fc&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c084fc&sideLabels=c084fc&dates=cccccc)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-### 💭
-_"Code. Create. Evolve."_
+## 🧩 a bit more
+
+- 🇦🇷 from Buenos Aires
+- 📐 studying, building, learning how things actually work
+- 🎨 i draw in my sketchbook — anime style, OCs, fan art
+- 💡 always working on something, even when it's messy
+
+---
+
+<div align="center">
+
+*"code is just another way to make things."*
+
+</div>
