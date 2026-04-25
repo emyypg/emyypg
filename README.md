@@ -1,23 +1,23 @@
-### Hii, I'm Emily 👩‍💻
+### Hii, I'm Emily 👾
 
 [![Github](https://img.shields.io/github/followers/emyypg?label=Follow&style=social)](https://github.com/emyypg)
 
-- I'm a developer from Argentina 🇦🇷
-- I like building creative and useful projects
-- Currently improving my skills in web development
-- Interested in UI/UX and design
+- Developer from Argentina 🇦🇷  
+- Building cool and creative stuff  
+- Focused on web + design  
+- Always learning something new  
 
 ---
 
-### 📊 My GitHub Stats
+### ⚡ Stats
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=emyypg&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=e5e7eb"
+    src="https://github-readme-stats.vercel.app/api?username=emyypg&show_icons=true&hide_border=true&bg_color=0a0a0f&title_color=c084fc&icon_color=c084fc&text_color=ffffff"
     height="170"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=emyypg&layout=compact&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=e5e7eb"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=emyypg&layout=compact&hide_border=true&bg_color=0a0a0f&title_color=c084fc&text_color=ffffff"
     height="170"
   />
 </p>
@@ -28,21 +28,17 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=emyypg&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&sideLabels=e5e7eb&dates=9ca3af"
+    src="https://streak-stats.demolab.com?user=emyypg&hide_border=true&background=0a0a0f&ring=c084fc&fire=c084fc&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c084fc&sideLabels=c084fc&dates=cccccc"
     height="170"
   />
 </p>
 
 ---
 
-### 🧠 Tech & Tools
+### 🧠 Tech
 `HTML` `CSS` `JavaScript` `Python` `Git` `Figma`
 
 ---
 
-### 💭 Quote
-_"Still learning, still building."_
----
-
-### 💭 Quote
-_"Still learning, still building."_
+### 💭
+_"Code. Create. Evolve."_
