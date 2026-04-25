@@ -1,15 +1,19 @@
 ### Hii, I'm Emily 👾
 
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="500"/>
+</p>
+
 [![Github](https://img.shields.io/github/followers/emyypg?label=Follow&style=social)](https://github.com/emyypg)
 
 - Developer from Argentina 🇦🇷  
-- Building cool and creative stuff  
-- Focused on web + design  
-- Always learning something new  
+- Building creative & futuristic projects  
+- Focused on web + UI/UX  
+- Always learning & evolving  
 
 ---
 
-### ⚡ Stats
+### ⚡ System Stats
 
 <p align="center">
   <img
@@ -24,7 +28,7 @@
 
 ---
 
-### 🔥 Streak
+### 🔥 Activity Stream
 
 <p align="center">
   <img
@@ -35,8 +39,17 @@
 
 ---
 
-### 🧠 Tech
+### 🧠 Tech Stack
 `HTML` `CSS` `JavaScript` `Python` `Git` `Figma`
+
+---
+
+### 🛰️ Visual Feed
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="300"/>
+</p>
 
 ---
 
